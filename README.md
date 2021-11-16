@@ -1,7 +1,7 @@
 ## Ola, eu sou o Diniz
 
 - 💻 Backend
-- 🐍 Atualmente estudo Python
+- 🐍 Atualmente estudo Python e JavaScript
 - 🧠 Tenho foco no framework Django
 
 
