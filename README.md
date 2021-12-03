@@ -1,7 +1,7 @@
-## Ola, eu sou o Diniz
+## hi, I'm the Diniz
 
-- 💻 Backend
-- 🐍 Linguagens: Python, Javascript, HTML5, CSS3
+- 💻 Backend Beveloper
+- 🐍 Languages: Python, Javascript, HTML5, CSS3
 - 🧠 Frameworks: Django, ExpressJS
 
 
