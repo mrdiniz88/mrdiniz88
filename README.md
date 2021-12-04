@@ -16,7 +16,7 @@
   <img align="center" alt="mrdiniz88-Django" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
     <img align="center" alt="mrdiniz88-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="mrdiniz88-TS" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="mrdiniz88-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="mrdiniz88-nodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="mrdiniz88-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="mrdiniz88-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
