@@ -2,7 +2,7 @@
 
 - 💻 Backend Developer
 - 🐍 Languages: Python, Javascript, HTML5, CSS3
-- 🧠 Frameworks: Django, ExpressJS
+- 🧠 Frameworks: Django, NestJS
 
 
 <div>
