@@ -4,12 +4,6 @@
 - 🐍 Languages: Python, Typescript, Javascript, HTML5, CSS3
 - 🧠 Frameworks: Django, NestJS
 
-
-<div>
-  <a href="https://github.com/mrdiniz88">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrdiniz88&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdiniz88&layout=compact&langs_count=16&theme=omni"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="mrdiniz88-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
