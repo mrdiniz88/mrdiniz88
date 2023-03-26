@@ -1,8 +1,8 @@
 ## hi, I'm the Diniz
 
 - 💻 Backend Developer
-- 🐍 Languages: Python, Typescript, Javascript, HTML5, CSS3
-- 🧠 Frameworks: Django, NestJS
+- 🐍 Languages: Typescript, Javascript, Rust, Go, Python
+- 🧠 Frameworks: NestJS, Express, Django
 
   
 <div style="display: inline_block"><br>
