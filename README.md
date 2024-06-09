@@ -1,10 +1,13 @@
 ## hi, I'm the Diniz
 
 - 💻 Backend Developer
+
 Habilidades: Trabalho em Equipe, Resiliência, Proatividade, Inteligência Emocional,
 Comunicação
+
 Ferramentas: GIT, Docker, AWS, Linux, RabbitMQ, GraphQL, MongoDB, SQL, Golang,
 NodeJS
+
 Outros: TDD, Clean code, SOLID, Hexagonal architecture, Clean architecture, DDD
   
 ##
